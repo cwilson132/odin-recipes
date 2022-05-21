@@ -1,2 +1,2 @@
 # odin-recipes
-Just getting into the hands on HTML portion of The Odin Project. 
+A beginner HTML project showing some recipes I like. 
